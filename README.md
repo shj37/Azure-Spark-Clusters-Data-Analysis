@@ -1,6 +1,6 @@
 # Harnessing Big Data Using Spark: Cloud-Based Analytics on Azure
 
-![project overview](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Y6sZtJh1CPIgRNp76QX5Ew.jpeg)
+![project overview](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*WuITixjhBBMzf9n5J6nQ7Q.jpeg)
 
 ## Description
 
