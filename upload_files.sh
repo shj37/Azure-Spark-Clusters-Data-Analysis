@@ -1,0 +1,1 @@
+scp -i ~/spark-cluster-ju_key.pem -r ./src/* azureuser@20.102.105.252:/home/azureuser
